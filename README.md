@@ -1,9 +1,9 @@
 # D1X-Rebirth-AppImage 🐧
 
-[![GitHub Downloads](https://img.shields.io/github/downloads/pkgforge-dev/D1X-Rebirth-AppImage/total?logo=github&label=GitHub%20Downloads)](https://github.com/pkgforge-dev/D1X-Rebirth-AppImage/releases/latest)
-[![CI Build Status](https://github.com//pkgforge-dev/D1X-Rebirth-AppImage/actions/workflows/appimage.yml/badge.svg)](https://github.com/pkgforge-dev/D1X-Rebirth-AppImage/releases/latest)
+[![GitHub Downloads](https://img.shields.io/github/downloads/pkgforge-dev/ECWolf-AppImage/total?logo=github&label=GitHub%20Downloads)](https://github.com/pkgforge-dev/ECWolf-AppImage/releases/latest)
+[![CI Build Status](https://github.com//pkgforge-dev/ECWolf-AppImage/actions/workflows/appimage.yml/badge.svg)](https://github.com/pkgforge-dev/ECWolf-AppImage/releases/latest)
 
-* [Latest Stable Release](https://github.com/pkgforge-dev/D1X-Rebirth-AppImage/releases/latest)
+* [Latest Stable Release](https://github.com/pkgforge-dev/ECWolf-AppImage/releases/latest)
 
 ---
 
